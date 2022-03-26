@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858998098871",
+    "project_id": "nartaqi2-42f0d",
+    "storage_bucket": "nartaqi2-42f0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858998098871:android:310ff83ff1b8ea10c33632",
+        "android_client_info": {
+          "package_name": "com.example.nartaqi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858998098871-utbn7jvbh1vubpgl2p6j9pkfv5rq628k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv_9O8oM3VbGtW_7BG-mpUnjyeNZ4yFDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858998098871-utbn7jvbh1vubpgl2p6j9pkfv5rq628k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
